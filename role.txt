@@ -5,4 +5,7 @@ Yashswi jayswal- batsman
 bumra- bowler
 siraj-bowler
 jadeja-allrounder
-pant-wicket keeper
+
+
+
+Dhoni-wicket keeper
